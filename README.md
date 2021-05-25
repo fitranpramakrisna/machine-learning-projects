@@ -1,9 +1,11 @@
-# Machine Learning Projects
+# Machine Learning Project Repository
 This repository contains my self-learning Machine Learning projects.
 
 The projects will be displayed in Python and using Google Colaboratory.
 
 ## Repository Contents 
+
+### Machine Learning Projects
 
 
 - [Boston Housing Price Prediction](https://github.com/fitranpramakrisna/Data-Science-Portofolio/blob/main/Machine%20Learning%20Projects/Boston%20House%20Pricing.ipynb) : A model to predict house pricing in Boston Housing based on given data using `Random Forest`.
@@ -14,3 +16,6 @@ The projects will be displayed in Python and using Google Colaboratory.
 The dataset from https://storage.googleapis.com/dqlab-dataset/dqlab_telco_final.csv
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Jcopml, Skopt_ 
+
+### DQLAB Certificates
+DQLab is a Data Science and Machine Learning Online Course
