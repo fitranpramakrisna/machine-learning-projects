@@ -17,5 +17,5 @@ The dataset from https://storage.googleapis.com/dqlab-dataset/dqlab_telco_final.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Jcopml, Skopt_ 
 
-### DQLAB Certificates
-DQLab is a Data Science and Machine Learning Online Course
+### Certificates
+Certificates from DQLab, an online course for data science and machine learning
